@@ -1,4 +1,4 @@
-[HW_2 : Terminal. Format : JSON](https://github.com/Vitaly-chek/JSON)
+![HW_2 : Terminal. Format : JSON](https://github.com/Vitaly-chek/JSON)
 
 
 
