@@ -2,7 +2,7 @@
 
 [HW_2 : Terminal. Format : XML](https://github.com/Vitaly-chek/XML)
 
-[HW_2 : Terminal. Format : TXT]
+[HW_2 : Terminal. Format : TXT](https://github.com/Vitaly-chek/TXT)
 
 ---
 
