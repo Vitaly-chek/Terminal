@@ -1,3 +1,12 @@
+[HW_2 : Terminal. Format : JSON](https://github.com/Vitaly-chek/JSON)
+
+[HW_2 : Terminal. Format : XML](https://github.com/Vitaly-chek/XML)
+
+[HW_2 : Terminal. Format : TXT]
+
+---
+
+
 # HW_1 : Terminal
 
 1. Посмотреть где я - `pwd`;
