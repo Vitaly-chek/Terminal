@@ -5,6 +5,7 @@
 [HW_2 : Terminal. Format : TXT](https://github.com/Vitaly-chek/TXT)
 
 [HW_1 : Git](https://github.com/Vitaly-chek/Git)
+
 ---
 
 
