@@ -54,7 +54,7 @@
 ## Task with *
 
 1. Send http request to the server:
----
+--
 
 ```
 curl http://162.55.220.72:5005/object_info_3?name=Vitalii&age=24&salary=500
