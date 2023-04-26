@@ -38,7 +38,7 @@
 
 20. Display date and time - date;
 
-Задание со *
+Task with *
 
 1. Send http request to the server:
 
