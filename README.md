@@ -54,13 +54,12 @@
 ## Task with *
 
 1. Send http request to the server:
---
 
 ```
 curl http://162.55.220.72:5005/object_info_3?name=Vitalii&age=24&salary=500
 ```
-2. Write a script that will automatically execute steps 3, 4, 5, 6, 7, 8, 13:
 ---
+2. Write a script that will automatically execute steps 3, 4, 5, 6, 7, 8, 13:
 
 ```
 #! /bin/bash
